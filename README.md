@@ -1,2 +1,2 @@
 # ML_testing
-Learning Machine Learning 
+Learning ML from other
